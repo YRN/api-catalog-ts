@@ -1,4 +1,4 @@
-# Gql service ts.
+# Rest Api service ts.
 This is rest api catalog service use typescript
 
 # How To run.
